@@ -31,7 +31,7 @@ You need a web browser to run this project.
 
 ### Installation
 
- **Open** `index.html` in your preferred web browser, or visit the live version at (https://aman-agrawal-22.github.io/N-Queens-Visualizer/)
+ **Open** `index.html` in your preferred web browser, or visit the live version at (https://github.com/Tapas3341/N-Queens-Visualizer)
 
 ## 🎮 Controls
 
